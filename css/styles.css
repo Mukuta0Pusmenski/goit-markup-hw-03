@@ -16,6 +16,10 @@ img{
     display: block;
 }
 
+:root {
+    --button-bg-color: #4d5ae5;
+}
+
 /* header */
 .header {
     border-bottom: 1px solid #e7e9fc;
@@ -151,10 +155,11 @@ img{
     cursor: pointer;
     display: block;
     min-width: 169px;
-    height: 56px
+    height: 56px;
     border: none;
     background-color: var(--button-bg-color);
     border-radius: 4px;
+    cursor: pointer;
 }
 
 .information-button:hover {
