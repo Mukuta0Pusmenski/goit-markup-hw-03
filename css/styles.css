@@ -362,7 +362,8 @@ img{
 .footer-paragraf {
     line-height: 1.5;
     letter-spacing: 0.02em;
-    max-width: 264px
+    max-width: 264px;
+    display: inline-block;
 }
 
 .footer-ikon-span {
