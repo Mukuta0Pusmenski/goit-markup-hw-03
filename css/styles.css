@@ -13,7 +13,16 @@ a {
 }
 
 /* header */
-.header {}
+.header {
+    border-bottom: 1px solid #e7e9fc;
+}
+
+.coffer{
+    display: flex;
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px 0 15px;
+}
 
 .header-navigation {}
 
