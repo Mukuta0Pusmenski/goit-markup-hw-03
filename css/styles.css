@@ -229,6 +229,8 @@ img{
     text-transform: capitalize;
     color: #2e2f42;
     margin-bottom: 72px;
+    width: calc((100% - 72px) / 4);
+    margin-bottom: 8px;
 }
 
 .team-list {
