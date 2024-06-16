@@ -229,13 +229,26 @@ img{
     text-transform: capitalize;
     color: #2e2f42;
     margin-bottom: 72px;
+}
+
+.img-three{
     width: calc((100% - 72px) / 4);
-    margin-bottom: 8px;
 }
 
 .team-list {
     display: flex;
     gap: 24px;
+}
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
 }
 
 .team-list-point {
