@@ -28,6 +28,11 @@ p {
 margin: 0;
 }
 
+ul {
+    padding-left: 0;
+    margin: 0;
+}
+
 /* header */
 .header {
     border-bottom: 1px solid #e7e9fc;
