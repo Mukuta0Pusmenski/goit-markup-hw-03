@@ -292,6 +292,7 @@ margin: 0;
 .box-three-title {
     text-align: center;
     margin-bottom: 8px;
+    flex-basis: calc((100% - 72px) / 4);
 }
 
 .team-information-paragraf {
@@ -357,6 +358,7 @@ margin: 0;
     letter-spacing: 0.02em;
     color: var(--navy-blue);
     margin-bottom: 8px;
+    width: calc((100% - 48px) / 3);
 }
 
 /* -=- */
