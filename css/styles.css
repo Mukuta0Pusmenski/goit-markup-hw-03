@@ -99,7 +99,6 @@ ul {
 /* contact */
 .contacts {
     font-style: normal;
-    margin-left: auto;
 }
 
 .contacts-list {
@@ -124,6 +123,7 @@ ul {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+margin-left: auto;
 }
 
 .contacts:hover {
