@@ -81,7 +81,7 @@ ul {
 .header-point{}
 
 .header-navigation-content {
-    font-weight: 500;
+    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -99,6 +99,7 @@ ul {
 /* contact */
 .contacts {
     font-style: normal
+margin-left: auto;
 }
 
 .contacts-list {
