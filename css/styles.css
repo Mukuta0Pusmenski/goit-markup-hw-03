@@ -349,8 +349,9 @@ font-weight: 400;
 
 .coffer-four{
     border: 1px solid #e7e9fc;
+    border-top: none;
     padding: 32px 16px;
-    margin-bottom: 8px;
+    margin-bottom: 8px
 }
 
 .portfolio-list-information {
