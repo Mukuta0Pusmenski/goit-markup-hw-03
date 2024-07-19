@@ -12,23 +12,28 @@ a {
     text-decoration: none;
 }
 
-img{
+img {
     display: block;
 }
 
 :root {
     --button-bg-color: #4d5ae5;
-  --font-family: "Roboto", sans-serif;
-  --second-family: "Raleway", sans-serif;
+    --font-family: "Roboto", sans-serif;
+    --second-family: "Raleway", sans-serif;
 
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     margin: 0;
 }
 
 p {
-margin: 0;
+    margin: 0;
 }
 
 ul {
@@ -41,16 +46,16 @@ ul {
     border-bottom: 1px solid #e7e9fc;
 }
 
-.container{
+.container {
     max-width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
 }
 
-.container-enade-von{}
+.container-enade-von {}
 
-.header-container{
-    display:flex;
+.header-container {
+    display: flex;
     align-items: center;
     margin-left: auto;
 }
@@ -83,7 +88,7 @@ ul {
     padding: 0;
 }
 
-.header-point{}
+.header-point {}
 
 .header-navigation-content {
     font-weight: 400;
@@ -104,7 +109,7 @@ ul {
 /* contact */
 .contacts {
     font-style: normal;
-margin-left: auto;
+    margin-left: auto;
 }
 
 .contacts-list {
@@ -143,7 +148,7 @@ margin-left: auto;
     gap: 40px;
 }
 
-.contacts-list-point{}
+.contacts-list-point {}
 
 .contacts-list-content {}
 
@@ -166,7 +171,7 @@ margin-left: auto;
     margin-bottom: 48px;
 }
 
-:root{
+:root {
     --button-bg-color: #4d5ae5;
 }
 
@@ -244,8 +249,8 @@ margin-left: auto;
     color: #434455;
 }
 
-.team-list-point{
-width: calc((100% - 72px) / 4);
+.team-list-point {
+    width: calc((100% - 72px) / 4);
 }
 
 /* --- */
@@ -294,16 +299,16 @@ width: calc((100% - 72px) / 4);
     margin: 0;
 }
 
-.img-three{}
+.img-three {}
 
-.coffer-three{
+.coffer-three {
     padding: 32px 0;
 }
 
 
 
 .box-three-title {
-font-family: var(--font-family);
+    font-family: var(--font-family);
     text-align: center;
     margin-bottom: 8px;
     flex-basis: calc((100% - 72px) / 4);
@@ -311,7 +316,7 @@ font-family: var(--font-family);
 
 .team-information-paragraf {
     font-size: 16px;
-font-weight: 400;
+    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
@@ -347,7 +352,7 @@ font-weight: 400;
     width: calc((100% - 48px) / 3);
 }
 
-.coffer-four{
+.coffer-four {
     border: 1px solid #e7e9fc;
     border-top: none;
     padding: 32px 16px;
@@ -366,11 +371,10 @@ font-weight: 400;
     font-size: 20px;
     line-height: 120%;
     letter-spacing: 0.02em;
-color: var(--navy-blue);
+    color: var(--navy-blue);
     width: calc((100% - 48px) / 3);
-width: auto;
+    width: auto;
     margin-bottom: 8px
-
 }
 
 /* -=- */
